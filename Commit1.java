@@ -1,4 +1,4 @@
-public class C:\vagrant\prodsanityui\testgws\testgwspr\Commit1.java {
+public class Commit1 {
 
 	public static void main(String args[]) {
 		try {
